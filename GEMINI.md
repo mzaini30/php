@@ -1,4 +1,4 @@
-- Buat web dengan menggunakan HTML saja (frontend only)
+- Buat web dengan menggunakan PHP native
 - Styling menggunakan Bootstrap yang filenya ada di library/bootstrap.min.css
 - Untuk reactivity, menggunakan Petite Vue yang filenya ada di library/petite-vue.iife.js
 - Utamakan responsive mode

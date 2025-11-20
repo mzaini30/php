@@ -145,7 +145,7 @@ curl "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:g
     ]
   }'
 
-- Suasana desain glassmorphism
+- Suasana desain elegan seperti Apple
 - Database menggunakan RedBeanPHP yang akan mengolah file uzumaki-naruto.db yang merupakan SQLite. Library RedBeanPHP bisa didapatkan di library/rb-sqlite.php
 - Usahakan komponen dipisah-pisah filenya supaya bisa reusable
 - Pakai absolute path menggunakan __DIR__
